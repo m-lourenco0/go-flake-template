@@ -2,7 +2,6 @@ Below is a complete `README.md` file for setting up a Go development environment
 
 ---
 
-```markdown
 # Go Development Environment with Nix Flakes
 
 This project provides a reproducible Go development environment using Nix flakes. It includes the Go compiler and common tools like `gopls`, `golangci-lint`, and `delve` to support coding, linting, and debugging.
