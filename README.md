@@ -105,4 +105,3 @@ Modify the `flake.nix` file to suit your project's needs.
 ---
 
 This `README.md` provides everything you need to set up and use a Go development environment with Nix flakes. Enjoy a consistent and reproducible setup for your Go projects!
-```
